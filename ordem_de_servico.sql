@@ -1,0 +1,1 @@
+SELECT * FROM oficinadb.ordem_de_servico;

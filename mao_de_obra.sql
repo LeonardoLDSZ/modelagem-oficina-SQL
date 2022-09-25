@@ -1,0 +1,1 @@
+SELECT * FROM oficinadb.mao_de_obra;

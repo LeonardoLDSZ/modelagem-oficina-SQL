@@ -1,0 +1,1 @@
+SELECT * FROM oficinadb.equipe_de_mecanicos;
