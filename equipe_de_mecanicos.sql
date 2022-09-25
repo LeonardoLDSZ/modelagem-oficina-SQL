@@ -8,5 +8,7 @@ create table equipe_de_mecanicos (
 insert into equipe_de_mecanicos (Nome_Mecanico,Endereço,Servico_mecanico) values
                                 ('Ana souza', 'R Zeferino 28','Arrefecimento'),
                                 ('Joana Vilas', 'R Vilas Lobo 147', 'Geometria e Balanceamento'),
-                                ('Pedro Julio','Av. XV Novembro 102', 'Troca de Oleo);
+                                ('Pedro Julio','Av. XV Novembro 102', 'Troca de Oleo)';
+                                
+                                
                                 

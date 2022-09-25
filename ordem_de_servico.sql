@@ -16,3 +16,5 @@ insert into ordem_de_servico (data_os, Status_Servicos ,data_conclusao,valor,tip
                              ('2022-09-21', 'analisando','2022-09-22','200','concerto','Troca da lampada','2','1'),
                              ('2022-09-21', 'aguardando peça','2022-09-23','500','revisão','motor com falhas','3','2'),
                              ('2022-09-22', 'concluido','2022-09-23','350','ajuste','farol ','4','3');
+                             
+                             

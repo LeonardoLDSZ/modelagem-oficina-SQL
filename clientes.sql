@@ -10,4 +10,6 @@ create table clientes (
 insert into clientes (Nome_Cliente, CPF, Modelo_Veiculo, Placa_Veiculo,Telefone_cliente) values
                         ('Ana souza', '482248425332','Fusca','JAC5PO6','2569874532'),
                         ('Joana Vilas', '2348547376','Gol','ERT3Y74','349526887'),
-                        ('Pedro Julio', '34226543222','Corolla','AGTR2D458','80785818547');
+                        ('Pedro Julio', '34226543222','Corolla','AGTR2D458','80785818547');                       
+                        
+
